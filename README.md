@@ -1,6 +1,12 @@
 # react-frontend
 front-end application developed by react
 
+# Set Up
+
+  1. Download node.js
+     https://nodejs.org/en/download/
+     
+  2. 
 
   npm start
     Starts the development server.
